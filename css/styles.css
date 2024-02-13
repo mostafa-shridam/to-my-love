@@ -1,0 +1,40 @@
+body {
+  margin: 0;
+ text-align: center;
+ background-color: #DCDCDC;
+ font-family: 'Gluten', cursive;
+}
+  
+h1 {
+    color: #5b3c3c;
+  font-size: 2.5rem;
+  padding-bottom: 20px;
+
+
+}
+
+p {
+  font-size: 2.1rem;
+  text-align: center;
+}
+
+a {
+    color: #778899;
+    margin: 10px 20px;
+  }
+a:hover {
+    color: black;
+    }
+    .copy-right{
+      color: #2F4F4F;
+      font-size: 1.2rem;
+    }
+
+hr {
+  border-style: none;
+   border-top-style: dashed;
+   border-color:rgb(97, 92, 92);
+   border-width: 8px;
+   width: 12%;
+   margin: 50px auto;
+}   
